@@ -1,0 +1,26 @@
+{
+  "name": "js_prototypes",
+  "version": "1.0.0",
+  "description": "Teaching module for understanding prototypal inheritance in Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thestevenbell/js_prototypes.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "prototype",
+    "protypal",
+    "inehritance"
+  ],
+  "author": "Steven Bell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thestevenbell/js_prototypes/issues"
+  },
+  "homepage": "https://github.com/thestevenbell/js_prototypes#readme"
+}
